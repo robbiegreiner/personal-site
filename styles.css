@@ -83,6 +83,11 @@ h4{
   margin-top: 20px;
 }
 
+.quick-facts{
+  border: 5px solid #003459;
+  width: 50%;
+}
+
 .about-me-text{
   font-size: 20px;
   line-height: 150%;
